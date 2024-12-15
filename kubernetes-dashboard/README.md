@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="../kubernetes-dashboard/screenshot-14-12-2024.png" width="500"/>
+</div>
+
 ## Overview
 High-level view of Kubernetes cluster - useful for monitoring, alerting and troubleshooting.
 
