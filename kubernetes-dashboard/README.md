@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="../kubernetes-dashboard/screenshot-14-12-2024.png" width="500"/>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="../kubernetes-dashboard/screenshot-14-12-2024.png" width="400"/>
+  <img src="../kubernetes-dashboard/screenshot-15-12-2024.png" width="400"/>
 </div>
 
 ## Overview
