@@ -1,6 +1,9 @@
 # grafana-dashboards
 Collection of Grafana dashboards - mainly Kubernetes related
 
+## Contents
+1. [kubernetes-dashboard](kubernetes-dashboard)
+
 ## Contributing
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
