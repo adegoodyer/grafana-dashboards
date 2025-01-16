@@ -1,8 +1,9 @@
 # grafana-dashboards
 Collection of Grafana dashboards - mainly Kubernetes related
 
-## Contents
-1. [kubernetes-dashboard](kubernetes-dashboard)
+## Grafana Cloud Dashboard Links
+1. [kubernetes-dashboard](https://grafana.com/grafana/dashboards/22523-eks-dashboard/)
+2. [longhorn-dashboard](https://grafana.com/grafana/dashboards/22705-longhorn-dashboard/)
 
 ## Contributing
 1. Fork the repository
