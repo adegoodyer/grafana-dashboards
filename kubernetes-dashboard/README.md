@@ -8,9 +8,9 @@ High-level view of Kubernetes cluster - useful for monitoring, alerting and trou
 
 Works on local, bare-metal or cloud provided clusters (e.g. k3s, kind, minikube, Talos Linux, EKS etc..)
 
-[https://grafana.com/grafana/dashboards/22523-kubernetes-dashboard/](https://grafana.com/grafana/dashboards/22523-eks-dashboard/)
+[Grafana Cloud Dashboards](https://grafana.com/grafana/dashboards/22523-eks-dashboard/)
 
-<!-- https://github.com/adegoodyer/grafana-dashboards/kubernetes-dashboard -->
+<!-- [github.com/adegoodyer/grafana-dashboards](https://github.com/adegoodyer/grafana-dashboards) -->
 
 ## Features
 - network I/O

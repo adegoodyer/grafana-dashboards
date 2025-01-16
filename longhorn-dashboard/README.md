@@ -1,5 +1,6 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="../longhorn-dashboard/screenshot-16-01-2025.png" width="400"/>
+  <img src="../longhorn-dashboard/screenshot-16-01-2025.png" width="400"/>
 </div>
 
 ## Overview
@@ -7,9 +8,9 @@ High-level view of Longhorn - useful for monitoring, alerting and troubleshootin
 
 Works on local, bare-metal or cloud provided clusters (e.g. k3s, kind, minikube, Talos Linux, EKS etc..)
 
-[https://grafana.com/grafana/dashboards/22705-longhorn-dashboard](https://grafana.com/grafana/dashboards/22705-longhorn-dashboard)
+[Grafana Cloud Dashboards](https://grafana.com/grafana/dashboards/22705-longhorn-dashboard/)
 
-<!-- https://github.com/adegoodyer/grafana-dashboards/kubernetes-dashboard -->
+<!-- [github.com/adegoodyer/grafana-dashboards](https://github.com/adegoodyer/grafana-dashboards) -->
 
 ## Features
 - Node, disk and volume capacity
